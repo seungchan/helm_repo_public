@@ -3,12 +3,12 @@ entries:
   giftexchange:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-31T11:47:16.21796-08:00"
+    created: "2023-01-31T20:15:19.241126-08:00"
     description: A Helm chart for Kubernetes
     digest: 1ddbbc35ed178c560bb5fa38f042d58543e1c40477ae99b7897f5cc21bdde742
     name: giftexchange
     type: application
     urls:
-    - https://github.com/seungchan/helm_repo_public/giftexchange-0.1.0.tgz
+    - https://seungchan.github.io/helm_repo_public/giftexchange-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-31T11:47:16.21189-08:00"
+generated: "2023-01-31T20:15:19.23705-08:00"
